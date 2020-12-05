@@ -1,0 +1,140 @@
+/*Body*/
+
+.body {
+    background-color: rgb(235, 235, 236) !important;
+}
+
+.body2 {
+    background-color: rgb(255, 255, 255) !important;
+}
+
+
+/*Titulos*/
+
+.Title1 {
+    color: rgb(158, 157, 157) !important;
+    font-weight: bold !important;
+}
+
+.Title2 {
+    color: rgb(88, 86, 86) !important;
+    font-weight: bolder !important;
+}
+
+.Title3 {
+    color: rgb(0, 0, 0) !important;
+    font-weight: bolder !important;
+    text-align: left !important;
+    font-size: 20px !important;
+}
+
+
+/*Texto normal*/
+
+.Texto1 {
+    color: rgb(88, 86, 86) !important;
+}
+
+
+/*Imagenes*/
+
+.img1 {
+    width: 115px !important;
+}
+
+
+/*Botones*/
+
+.Boton1 {
+    border-radius: 35px !important;
+    text-transform: none !important;
+}
+
+.Boton2 {
+    background-color: white !important;
+    border-style: none !important;
+    border-color: white !important;
+    text-transform: none !important;
+}
+
+.Boton3 {
+    background-color: rgb(50, 148, 212) !important;
+    border-style: none !important;
+    border-color: white !important;
+    text-transform: none !important;
+    border-radius: 30px !important;
+    color: white !important;
+    text-align: center !important;
+}
+
+.Boton4 {
+    background-color: rgb(46, 179, 116) !important;
+    border-style: none !important;
+    border-color: white !important;
+    text-transform: none !important;
+    border-radius: 30px !important;
+    color: white !important;
+    text-align: center !important;
+}
+
+.Boton5 {
+    background-color: rgb(252, 125, 142) !important;
+    border-style: none !important;
+    border-color: white !important;
+    text-transform: none !important;
+    border-radius: 30px !important;
+    color: white !important;
+    text-align: center !important;
+}
+
+.Boton6 {
+    background-color: rgb(46, 179, 116) !important;
+    border-style: none !important;
+    border-color: white !important;
+    text-transform: none !important;
+    border-radius: 30px !important;
+    color: white !important;
+    text-align: center !important;
+    width: 140px !important;
+}
+
+.Boton7 {
+    background-color: rgb(114, 31, 63) !important;
+    border-style: none !important;
+    border-color: white !important;
+    text-transform: none !important;
+    border-radius: 30px !important;
+    color: white !important;
+    text-align: center !important;
+}
+
+.Boton8 {
+    text-transform: none !important;
+}
+
+
+/*Tabla*/
+
+.thead {
+    font-weight: bolder !important;
+    color: black !important;
+    background-color: rgb(245, 245, 245) !important;
+}
+
+.tr:hover {
+    font-weight: bolder !important;
+    color: black !important;
+    background-color: rgb(245, 245, 245) !important;
+}
+
+.tr_op {
+    width: 280px !important;
+}
+
+.tr_op2 {
+    width: 180px !important;
+}
+
+.tr_op3 {
+    width: 190px !important;
+}
